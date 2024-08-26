@@ -1,6 +1,6 @@
 # HTTPS Content-Based Load Balancer with Terraform || GSP206
 
-## Solution [here](https://youtu.be/5pmJvE0vUew)
+## Solution [here](https://youtu.be/4mLiRfrOPNM)
 
 ### Run the following Commands in the Cloud shell
 
